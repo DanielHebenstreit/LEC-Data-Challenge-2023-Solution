@@ -4,4 +4,4 @@ The current code presents the __winning solution__ developed during a contest ca
 
 
 Please be aware that, due to legal constraints, I'm unable to share the dataset used in this project. Consequently, it is not included in this repository.
-Furthermore, it's essential to note that due to tight time constraints and the urgency of meeting competition/task deadlines, the code might deviate at some parts from to the high quality standards I usually maintain.
+Furthermore, it's essential to note that due to tight time constraints and the urgency of meeting competition/task deadlines, the code might deviate at some parts from to the high quality standards we usually maintain.
